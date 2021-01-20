@@ -1,0 +1,100 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        
+        Title="MainWindow" Height="550" Width="811.274"  Closing="Window_Closing" Icon="Images/book.png">
+    <StackPanel>
+        <Menu Background="#FFB2DFDB">
+            <MenuItem Header="Hệ thống" >
+
+                <MenuItem Header="Thoát" IsCheckable="True" Name="mnuThoat" />
+            </MenuItem>
+            <MenuItem Header="Tìm kiếm">
+                <MenuItem Header="Tìm theo tên sách" IsCheckable="True" Name="mnuTimDSSTheoTenSach" Click="MnuTimDSSTheoTenSach_Click"/>
+                <MenuItem Header="Tìm theo tác giả" IsCheckable="True" Name="mnuTimDSSTheoTenTacGia" Click="MnuTimDSSTheoTenTacGia_Click"/>
+                <Separator/>
+                <MenuItem Header="Tìm danh sách sách theo từng thể loại" IsCheckable="True" Click="MenuItem_Click" Name="mnuTimDSSTheoTheLoai"/>
+            </MenuItem>
+            <MenuItem Header="Thể loại" >
+                <MenuItem Header="Thêm thể loại" IsCheckable="True" Click="ThemTheLoai_Click" x:Name="ThemTheLoai"/>
+            </MenuItem>
+        </Menu>
+        <TabControl >
+            <TabItem Header="Thông tin sách" Height="20" Width="100">
+                <StackPanel>
+                    <Grid Height="256" Margin="0,0,-0.4,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="60*"/>
+                            <ColumnDefinition Width="259*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="Mã sách: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="31,32,0,0"/>
+                        <TextBox TextChanged="TxtSachID_TextChanged" HorizontalAlignment="Left" Height="23"  VerticalAlignment="Top" Width="120" Margin="5.44,35,0,0" Name="txtSachID" Grid.Column="1" />
+                        <Label Content="Tên sách: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="31,60,0,0" RenderTransformOrigin="0.514,0.265"/>
+                        <TextBox TextChanged="TxtSachID_TextChanged" HorizontalAlignment="Left" Height="23"  VerticalAlignment="Top" Width="179" Margin="5,63,0,0" Name="txtTenSach" Grid.Column="1" />
+
+                        <Label Content="Số lượng: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="31,124,0,0"/>
+                        <TextBox TextChanged="TxtSachID_TextChanged" HorizontalAlignment="Left" Height="23"  VerticalAlignment="Top" Width="179" Margin="5,119,0,0" Name="txtSoLuong" Grid.Column="1" RenderTransformOrigin="0.313,0.551" />
+                        <Label Content="Tác giả: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="31,93,0,0"/>
+                        <TextBox TextChanged="TxtSachID_TextChanged" HorizontalAlignment="Left" Height="23"  VerticalAlignment="Top" Width="179" Margin="5,91,0,0" Name="txtTacGia" Grid.Column="1" RenderTransformOrigin="0.193,0.653" />
+                        <Label Content="Nhà xuất bản: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="224,40,0,0" RenderTransformOrigin="0.514,0.265" Grid.Column="1"/>
+                        <TextBox TextChanged="TxtSachID_TextChanged" HorizontalAlignment="Left" Height="23"  VerticalAlignment="Top" Width="179" Margin="329,35,0,0" Name="txtNXB" Grid.Column="1" />
+                        <Label Content="Năm xuất bản: " HorizontalAlignment="Left" VerticalAlignment="Top" Margin="224,68,0,0" RenderTransformOrigin="0.514,0.265" Grid.Column="1"/>
+                        <TextBox TextChanged="TxtSachID_TextChanged" HorizontalAlignment="Left" Height="23"  VerticalAlignment="Top" Width="179" Margin="329,63,0,0" Name="txtNamXB" Grid.Column="1" />
+                        <Button  Margin="10,192,11.4,32" Name="butThem" Click="ButThem_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <fa:ImageAwesome Icon="Plus" Height="25" ></fa:ImageAwesome>
+                                <Label Content="Thêm" Foreground="White" VerticalAlignment="Center" Height="30"/>
+                            </StackPanel>
+                        </Button>
+                        <Button  Margin="510.6,192,10,32" Name="butThoat" Grid.Column="1" Click="ButThoat_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <fa:ImageAwesome Icon="PowerOff"  Height="25" ></fa:ImageAwesome>
+                                <Label Content="Thoát" Foreground="White" VerticalAlignment="Center" Height="30"/>
+                            </StackPanel>
+                        </Button>
+                        <Button   Margin="144,192,527,32" Name="butXoa" Click="ButXoa_Click" Grid.ColumnSpan="2">
+                            <StackPanel Orientation="Horizontal">
+                                <fa:ImageAwesome Icon="Remove" Height="25" ></fa:ImageAwesome>
+                                <Label Content="Xóa" Foreground="White" VerticalAlignment="Center" Height="30"/>
+                            </StackPanel>
+                        </Button>
+                        <Button  Margin="127.6,192,393,32" Name="butSua" Click="ButSua_Click" Grid.Column="1">
+                            <StackPanel Orientation="Horizontal">
+                                <fa:ImageAwesome Icon="Wrench" Height="25" ></fa:ImageAwesome>
+                                <Label Content="Sửa" Foreground="White" VerticalAlignment="Center" Height="30"/>
+                            </StackPanel>
+                        </Button>
+                        <Button  Margin="261.6,192,254,32" Name="butThemMoi" Click="ButThemMoi_Click" Grid.Column="1">
+                            <StackPanel Orientation="Horizontal">
+                                <fa:ImageAwesome Icon="Star" Height="24" ></fa:ImageAwesome>
+                                <Label Content="Thêm Mới" Foreground="White" VerticalAlignment="Center" Height="30"/>
+                            </StackPanel>
+                        </Button>
+                        <Button Content="..." HorizontalAlignment="Left" Height="25" Margin="464,99,0,0" VerticalAlignment="Top" Width="44" ToolTip="Thêm mới thể loại..." Name="butThemTheLoai" Click="ButThemTheLoai_Click" Grid.Column="1"/>
+
+                        <Label Content="Thể loại: " HorizontalAlignment="Left" Height="25" Margin="226,101,0,0" VerticalAlignment="Top" Width="88" Grid.Column="1"/>
+                        <ComboBox HorizontalAlignment="Left" Height="25" Margin="333,94,0,0" VerticalAlignment="Top" Width="120" Name="cboTheLoai" Grid.Column="1" />
+                    </Grid>
+                    <DataGrid Name="dataGirdDSSach" AutoGenerateColumns="False"  IsReadOnly="True" MouseUp="DataGirdDSSach_MouseUp" Background="#FFB2DFDB">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Mã sách" Binding="{Binding SachID}"/>
+                            <DataGridTextColumn Header="Tên sách" Width="200" Binding="{Binding TenSach}"/>
+                            <DataGridTextColumn Header="Tác giả" Width="120" Binding="{Binding TacGia}"/>
+                            <DataGridTextColumn Header="NXB" Width="100" Binding="{Binding NXB}"/>
+                            <DataGridTextColumn Header="Năm XB" Width="100" Binding="{Binding NamXB}"/>
+                            <DataGridTextColumn Header="Số lượng" Width="80" Binding="{Binding SoLuong}"/>
+                            <DataGridTextColumn Header="Thể loại" Width="110" Binding="{Binding TheLoaiID}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </TabItem>
+
+        </TabControl>
+
+    </StackPanel>
+</Window>

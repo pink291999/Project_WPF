@@ -1,0 +1,140 @@
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ASUS\Desktop\123\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\Register.g.cs
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\Login.baml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\Register.baml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\Search.g.cs
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\Search.baml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\tran hoang sanh\Desktop\da\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\Register.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\Search.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\Login.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\Register.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\Search.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\TheLoaiView.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\TheLoaiView.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenSach.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenSach.baml
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenTacGia.g.cs
+C:\Users\ASUS\Downloads\win\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenTacGia.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\FontAwesome.WPF.xml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\Login.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\Register.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\Search.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\TheLoaiView.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenSach.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenTacGia.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\Login.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\Register.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\Search.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\TheLoaiView.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenSach.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\TimKiemTheoTenTacGia.baml
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ASUS\Downloads\win - Copy\da\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

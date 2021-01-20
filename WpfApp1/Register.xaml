@@ -1,0 +1,79 @@
+﻿<Window x:Class="WpfApp1.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Register" Height="450" Width="800" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/16.png"/>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.7*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+
+        <TextBox
+            Style="{ StaticResource MaterialDesignFloatingHintTextBox}"
+            materialDesign:HintAssist.Hint=" Tên Đăng Nhập"
+            KeyUp="txtUser_KeyUp" Name="txtUser"
+            Grid.Row="0"
+            Width="400"
+            FontSize="25"
+            HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="257,26,0,9.8" Foreground="#FFD94118" BorderBrush="#89934B4B" SelectionBrush="#FFFF3300"/>
+        <PasswordBox KeyUp="Pass_KeyUp"  Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                     materialDesign:HintAssist.Hint=" Mật khẩu"
+                     Foreground="#FFD94118"
+            Grid.Row="1"
+            Width="400"
+            HorizontalAlignment="Left"
+            FontSize="25"
+            Name="pass" Grid.ColumnSpan="2" Margin="257,26.2,0,9.6"/>
+
+        <PasswordBox KeyUp="Repass_KeyUp"  Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"
+                     materialDesign:HintAssist.Hint=" Nhập lại Mật khẩu"
+            Grid.Row="2"
+                     Foreground="#FFD94118"
+            Width="400"
+            HorizontalAlignment="Left"
+            FontSize="25"
+            Name="repass" Grid.ColumnSpan="2" Margin="257,26.4,0,10.2"/>
+        <Button Click="ButDangKy_Click" Grid.Column="0"
+               IsEnabled="False"
+                Grid.Row="3"
+                Height="50"
+                FontSize="30"
+                Name="butDangKy" FontFamily="Times New Roman" Margin="93,27,28,28"
+                >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="FileText" Height="35"></fa:ImageAwesome>
+                <TextBlock Text="Đăng ký" VerticalAlignment="Center"/>
+            </StackPanel>
+        </Button>
+
+        <Button Click="ButHuy_Click"
+                Grid.Row="3"
+                Height="50"
+                FontSize="30"
+                Name="butHuy" FontFamily="Times New Roman" Margin="136,27,125,28" Grid.Column="1"
+                >
+            <StackPanel Orientation="Horizontal">
+                <fa:ImageAwesome Icon="Remove" Height="35"></fa:ImageAwesome>
+                <TextBlock Text="Hủy" VerticalAlignment="Center"/>
+            </StackPanel>
+        </Button>
+        <Image Source="Images/14.png" Margin="-38,40,38.4,10.2" Grid.RowSpan="3" RenderTransformOrigin="0.444,0.604"/>
+    </Grid>
+</Window>
